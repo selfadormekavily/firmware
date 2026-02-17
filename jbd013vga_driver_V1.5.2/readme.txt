@@ -1,0 +1,2 @@
+1. The functions of hal_driver.c (in the "Hal" folder) need to be instantiated by users in combination with their own hardware platform features.
+2. jbd013_api.c (in "jbd013" folder) is a function interface written for jbd013 VGA panel.
